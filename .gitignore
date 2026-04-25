@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+logs/*.log
+output/*.json
+output/*.md
+output/screenshots/*.png
+output/errors/*
+playwright-report/
+
